@@ -9,4 +9,5 @@ export class BasicPageComponent {
   public lowecase:string='david';
   public uppercase:string='DAVID';
   public tittlecase:string='dAvId';
+  public date:Date=new Date();
 }
